@@ -10,7 +10,7 @@ Me dedico a explorar y dominar el mundo del desarrollo web, creando interfaces a
 ## 📱 Desarrollo Móvil
 Estoy fascinado por el desarrollo móvil y me esfuerzo en crear aplicaciones que aprovechan al máximo las capacidades de los dispositivos móviles. Trabajo con:
 - **Plataformas:** Android, iOS
-- **Herramientas:** React Native, Flutter
+- **Herramientas:** Flutter
 
 ## 🔍 Bases de Datos
 Estoy en constante aprendizaje y perfeccionamiento en el diseño y gestión de bases de datos para garantizar un rendimiento eficiente y una gestión segura de la información. Mis habilidades incluyen:
