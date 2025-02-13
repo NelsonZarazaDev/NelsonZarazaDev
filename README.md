@@ -5,7 +5,7 @@
 ## 🌐 Desarrollo Web
 Me dedico a explorar y dominar el mundo del desarrollo web, creando interfaces atractivas y funcionales que mejoran significativamente la experiencia del usuario. Me enfoco en:
 - **Frontend:** HTML, CSS, Bootstrap, Tailwind, JavaScript, React
-- **Backend:** Node.js, Spring Boot, Php
+- **Backend:** Spring Boot, Php
 
 ## 📱 Desarrollo Móvil
 Estoy fascinado por el desarrollo móvil y me esfuerzo en crear aplicaciones que aprovechan al máximo las capacidades de los dispositivos móviles. Trabajo con:
