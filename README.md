@@ -1,67 +1,290 @@
 <div align="center">
 
-<h1>Hola, soy Nelson Mauricio Navarro Zaraza 👋</h1>
+<a href="https://github.com/NelsonZarazaDev">
+  <img src="assets/banner.svg" width="100%" alt="Nelson Mauricio - Software Engineer and Backend Developer" />
+</a>
 
-<p><strong>Ingeniero de Sistemas · Backend Developer · Java & Spring Boot</strong></p>
+<br />
+<br />
 
-<p>
-  Construyo APIs, plataformas SaaS y sistemas distribuidos con énfasis en
-  arquitectura mantenible, seguridad y datos confiables.
-</p>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI;Microservices+%7C+APIs+%7C+SaaS+%7C+Cloud;Software+designed+for+real-world+problems" alt="Animated developer headline" />
+</a>
 
-<p>
-  <a href="https://portfolio-mocha-seven-5wlv6hjrj5.vercel.app">Portafolio</a>
-  ·
-  <a href="https://www.linkedin.com/in/nelson-mauricio-navarro-zaraza-3448542a5/">LinkedIn</a>
-</p>
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=NelsonZarazaDev&style=flat-square&color=0ea5e9&label=profile+views" alt="Profile views" />
 
 </div>
 
-## Sobre mí
+---
 
-- 💻 Desarrollo soluciones backend con **Java, Spring Boot y Spring Cloud**.
-- 🧩 Trabajo con arquitecturas modulares, microservicios, APIs REST e integraciones.
-- 🗄️ Diseño y gestiono datos con **PostgreSQL, MySQL, MongoDB y Redis**.
-- 🐳 Contenedorizo entornos con Docker y automatizo flujos de desarrollo con Git.
-- 🏥 Me interesa especialmente crear productos **HealthTech** que resuelvan procesos reales.
-- 🚀 Actualmente desarrollo **OptiClinic**, una plataforma para la gestión de clínicas ópticas.
+## `$ whoami`
 
-## Proyectos destacados
+<p align="center">
+  <img src="assets/whoami.svg" width="100%" alt="Terminal profile of Nelson Mauricio" />
+</p>
 
-| Proyecto | Descripción | Tecnologías principales |
-| --- | --- | --- |
-| [Vaku](https://github.com/NelsonZarazaDev/Vaku) | Plataforma para apoyar la gestión y el seguimiento de la vacunación infantil mediante una arquitectura de microservicios. | Java, Spring Boot, Spring Cloud, PostgreSQL |
-| [OptiClinic](https://github.com/NelsonZarazaDev/OptiClinic) | SaaS en desarrollo para empresas ópticas, historias clínicas, pacientes, reservas, roles y sucursales. | Java, Spring Boot, PostgreSQL, Redis, Flyway |
-| [Microservices Ecommerce](https://github.com/NelsonZarazaDev/microservices-ecommerce) | Arquitectura de referencia para catálogo, inventario, órdenes, configuración y descubrimiento de servicios. | Spring Boot, MongoDB, MySQL, PostgreSQL, Docker |
-| [Commit Git](https://github.com/NelsonZarazaDev/commit-git) | Generador bilingüe de mensajes Conventional Commits con vista previa e historial local. | React, TypeScript, Vite |
-| [Portafolio](https://github.com/NelsonZarazaDev/portfolio) | Portafolio profesional con experiencia, stack, certificaciones y formas de contacto. | React, TypeScript, Tailwind CSS |
+I build backend platforms, APIs and SaaS products with an emphasis on **maintainable architecture, data integrity, security and scalability**.
 
-## Stack principal
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js 3](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-## En qué estoy trabajando
-
-- Diseñando el modelo multiempresa y clínico de **OptiClinic**.
-- Profundizando en microservicios, mensajería, observabilidad y seguridad.
-- Mejorando la documentación, las pruebas y la automatización de mis proyectos públicos.
+My main ecosystem is **Java + Spring Boot**, complemented by **Python + FastAPI**, distributed systems, relational and NoSQL databases, messaging and modern frontend frameworks when the product requires end-to-end ownership.
 
 ---
 
+## `$ cat tech-stack.yaml`
+
 <div align="center">
-  <em>Software claro, mantenible y pensado para resolver problemas reales.</em>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" alt="Backend technologies" />
+</p>
+
+```yaml
+backend:
+  - Java
+  - Spring Boot
+  - Spring Cloud
+  - Python
+  - FastAPI
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Database technologies" />
+</p>
+
+```yaml
+data:
+  - PostgreSQL
+  - MySQL
+  - MongoDB
+  - Redis
+  - Flyway
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📨 Messaging & Integration
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" alt="Messaging technologies" />
+</p>
+
+```yaml
+integration:
+  - Apache Kafka
+  - RabbitMQ
+  - REST APIs
+  - Event-driven systems
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,typescript,tailwind" alt="Frontend technologies" />
+</p>
+
+```yaml
+frontend:
+  - React
+  - Angular
+  - Vue 3
+  - TypeScript
+  - Tailwind CSS
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐳 Platform & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,aws" alt="DevOps and cloud technologies" />
+</p>
+
+```yaml
+platform:
+  - Docker
+  - GitHub Actions
+  - Git
+  - Linux
+  - AWS
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Architecture
+
+```yaml
+architecture:
+  - Modular Monoliths
+  - Microservices
+  - Multi-tenant SaaS
+  - RBAC
+  - Distributed Systems
+  - Clean API Design
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## `$ current_project --verbose`
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+### 🏥 OptiClinic
+
+**Healthcare SaaS platform for optical clinics and optometry services.**
+
+Designed around real clinical workflows with support for multiple companies and branches, patients, professionals, reservations, clinical templates, medical records, auditing and interoperability.
+
+```yaml
+architecture: modular backend + modern web frontend
+backend: Spring Boot
+frontend: React + TypeScript
+storage: PostgreSQL + Redis
+migrations: Flyway
+security: OAuth2 / JWT / RBAC
+interoperability: FHIR R4 / IHCE-ready design
+status: active development
+```
+
+</td>
+<td width="32%" valign="top">
+
+### Core challenges
+
+- Multi-company isolation
+- Clinical versioning
+- Fine-grained permissions
+- Auditability
+- Data integrity
+- Healthcare interoperability
+- Maintainable domain modeling
+
+</td>
+</tr>
+</table>
+
+> OptiClinic is currently developed in private frontend and backend repositories while the product architecture evolves.
+
+---
+
+## `$ ls ./featured-projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💉 [Vaku](https://github.com/NelsonZarazaDev/Vaku)
+
+Vaccination management platform designed with a distributed architecture.
+
+`Java` `Spring Boot` `Spring Cloud` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [Microservices Ecommerce](https://github.com/NelsonZarazaDev/microservices-ecommerce)
+
+Reference implementation for catalog, inventory, ordering, configuration and service discovery.
+
+`Spring Boot` `MongoDB` `MySQL` `PostgreSQL` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧱 React Enterprise Starter
+
+Reusable enterprise frontend foundation focused on modularity, Atomic Design and maintainable TypeScript architecture.
+
+`React` `TypeScript` `Vite` `PrimeReact` `Tailwind` `Storybook`
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ [Commit Git](https://github.com/NelsonZarazaDev/commit-git)
+
+Bilingual Conventional Commits generator with preview and local history.
+
+`React` `TypeScript` `Vite`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ git stats --summary`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NelsonZarazaDev&show_icons=true&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=22C55E&text_color=CBD5E1" alt="Nelson's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonZarazaDev&layout=compact&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1" alt="Nelson's most used languages" />
+
+</div>
+
+> GitHub language statistics reflect public repository files and are not a measure of proficiency.
+
+---
+
+## `$ roadmap --now`
+
+```text
+[01] Build production-grade SaaS architecture
+[02] Deepen distributed systems and messaging patterns
+[03] Improve observability, testing and CI/CD practices
+[04] Continue developing cloud skills with AWS
+[05] Ship software that solves real operational problems
+```
+
+---
+
+## `$ connect --socials`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nelson-mauricio-navarro-zaraza-3448542a5/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://portfolio-mocha-seven-5wlv6hjrj5.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://github.com/NelsonZarazaDev">
+  <img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br />
+<br />
+
+<sub><code>nelson@dev:~$ build something useful_</code></sub>
+
 </div>
