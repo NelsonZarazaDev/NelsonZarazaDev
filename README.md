@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://github.com/NelsonZarazaDev">
-  <img src="assets/banner.svg" width="100%" alt="Nelson Mauricio - Software Engineer and Backend Developer" />
+  <img src="assets/banner.svg" width="100%" alt="Nelson Mauricio - Full Stack Software Engineer" />
 </a>
 
 <br />
 <br />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI;Microservices+%7C+APIs+%7C+SaaS+%7C+Cloud;Software+designed+for+real-world+problems" alt="Animated developer headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+scalable+full-stack+systems;Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI;Microservices+%7C+APIs+%7C+SaaS+%7C+Cloud;Software+designed+for+real-world+problems" alt="Animated developer headline" />
 </a>
 
 <br />
@@ -25,9 +25,9 @@
   <img src="assets/whoami.svg" width="100%" alt="Terminal profile of Nelson Mauricio" />
 </p>
 
-I build backend platforms, APIs and SaaS products with an emphasis on **maintainable architecture, data integrity, security and scalability**.
+I design and build full-stack applications, APIs and SaaS products with an emphasis on **maintainable architecture, user experience, security and scalability**.
 
-My main ecosystem is **Java + Spring Boot**, complemented by **Python + FastAPI**, distributed systems, relational and NoSQL databases, messaging and modern frontend frameworks when the product requires end-to-end ownership.
+I work across the stack with **Java + Spring Boot** and **Python + FastAPI** on the backend, and **React, Angular and TypeScript** on the frontend. I focus on reliable systems, thoughtful interfaces and end-to-end product development.
 
 ---
 
@@ -241,6 +241,18 @@ Bilingual Conventional Commits generator with preview and local history.
 
 ---
 
+## `$ open ./portfolio`
+
+### 🌐 [Personal Portfolio](https://github.com/NelsonZarazaDev/portfolio)
+
+My personal portfolio website, built with a focus on visual identity, responsive layouts and reusable components.
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `shadcn` `Lucide`
+
+> The new portfolio is under development. Explore the [source code](https://github.com/NelsonZarazaDev/portfolio); the live website will be linked when available.
+
+---
+
 ## `$ git stats --summary`
 
 <div align="center">
@@ -274,7 +286,7 @@ Bilingual Conventional Commits generator with preview and local history.
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://portfolio-mocha-seven-5wlv6hjrj5.vercel.app">
+<a href="https://github.com/NelsonZarazaDev/portfolio">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
