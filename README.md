@@ -116,7 +116,7 @@ frontend:
 ### 🐳 Platform & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,aws" alt="DevOps and cloud technologies" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux" alt="DevOps and cloud technologies" />
 </p>
 
 ```yaml
@@ -125,7 +125,6 @@ platform:
   - GitHub Actions
   - Git
   - Linux
-  - AWS
 ```
 
 </td>
@@ -258,18 +257,6 @@ Featured repositories are public portfolio projects. VisionSoft is included as a
 
 ---
 
-## `$ open ./portfolio`
-
-### 🌐 Personal Portfolio
-
-My personal portfolio website, built with a focus on visual identity, responsive layouts and reusable components.
-
-`React` `TypeScript` `Vite` `Tailwind CSS` `shadcn` `Lucide`
-
-> The new portfolio is under development in a private repository. The public website will be linked when available.
-
----
-
 ## `$ git stats --summary`
 
 <div align="center">
@@ -289,7 +276,7 @@ My personal portfolio website, built with a focus on visual identity, responsive
 [01] Build production-grade SaaS architecture
 [02] Deepen distributed systems and messaging patterns
 [03] Improve observability, testing and CI/CD practices
-[04] Continue developing cloud skills with AWS
+[04] Strengthen database design and SQL optimization
 [05] Ship software that solves real operational problems
 ```
 
@@ -301,10 +288,6 @@ My personal portfolio website, built with a focus on visual identity, responsive
 
 <a href="https://www.linkedin.com/in/nelson-mauricio-navarro-zaraza-3448542a5/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://github.com/NelsonZarazaDev/portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://github.com/NelsonZarazaDev">
