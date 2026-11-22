@@ -48,6 +48,7 @@ I work across the stack with **Java + Spring Boot** and **Python + FastAPI** on 
 backend:
   - Java
   - Spring Boot
+  - JHipster
   - Spring Cloud
   - Python
   - FastAPI
@@ -193,6 +194,21 @@ status: early development — application scaffold
 ## `$ ls ./featured-projects`
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎓 [University Finance — JHipster](https://github.com/NelsonZarazaDev/university-finance)
+
+**Featured full-stack practice project · Built with JHipster 9.4.0**
+
+University-oriented academic finance management app featuring student records and linked financial obligations, CRUD workflows, JWT authentication, Oracle persistence, Liquibase migrations, MapStruct DTOs, and a React interface. Includes a documented local setup and demo accounts.
+
+**Core stack:** `JHipster 9.4.0` · `Java 21` · `Spring Boot 4.1.1` · `React 19` · `TypeScript` · `Oracle` · `Gradle`
+
+> **Hands-on learning project** — demonstrates end-to-end development with **JHipster**, not a production payment-processing platform.
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
